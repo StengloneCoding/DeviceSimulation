@@ -1,0 +1,11 @@
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\bin\Debug\net9.0\MedicalDeviceInterface.deps.json
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\bin\Debug\net9.0\MedicalDeviceInterface.dll
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\bin\Debug\net9.0\MedicalDeviceInterface.pdb
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\MedicalDeviceInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\MedicalDeviceInterface.AssemblyInfoInputs.cache
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\MedicalDeviceInterface.AssemblyInfo.cs
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\MedicalDeviceInterface.csproj.CoreCompileInputs.cache
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\MedicalDeviceInterface.dll
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\refint\MedicalDeviceInterface.dll
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\MedicalDeviceInterface.pdb
+C:\PrivateRepo\DeviceSimulation\MedicalDeviceInterface\obj\Debug\net9.0\ref\MedicalDeviceInterface.dll

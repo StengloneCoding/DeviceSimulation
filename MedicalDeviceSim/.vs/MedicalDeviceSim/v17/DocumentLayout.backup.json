@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C849F7DD-5933-471B-A02C-0EE350554E8F}|MedicalDeviceSim\\MedicalDeviceSim.csproj|c:\\privaterepo\\devicesimulation\\medicaldevicesim\\medicaldevicesim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C849F7DD-5933-471B-A02C-0EE350554E8F}|MedicalDeviceSim\\MedicalDeviceSim.csproj|solutionrelative:medicaldevicesim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70123B96-D172-4D36-A908-E282DA8F45D2}|..\\MedicalClientApp\\MedicalClientApp.csproj|c:\\privaterepo\\devicesimulation\\medicalclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B16BD-14E7-4F03-BDD1-F73A91036DCD}|..\\MedicalDeviceLib\\MedicalDeviceLib.csproj|c:\\privaterepo\\devicesimulation\\medicaldevicelib\\simulateddevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C849F7DD-5933-471B-A02C-0EE350554E8F}|MedicalDeviceSim\\MedicalDeviceSim.csproj|c:\\privaterepo\\devicesimulation\\medicaldevicesim\\medicaldevicesim\\medicaldevicesim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C849F7DD-5933-471B-A02C-0EE350554E8F}|MedicalDeviceSim\\MedicalDeviceSim.csproj|solutionrelative:medicaldevicesim\\medicaldevicesim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710B16BD-14E7-4F03-BDD1-F73A91036DCD}|..\\MedicalDeviceLib\\MedicalDeviceLib.csproj|c:\\privaterepo\\devicesimulation\\medicaldevicelib\\medicaldevicelib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A63A15-28F7-40E7-9D03-6092C13BF3C8}|..\\MedicalDeviceInterface\\MedicalDeviceInterface.csproj|c:\\privaterepo\\devicesimulation\\medicaldeviceinterface\\imedicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicalDeviceLib",
+              "DocumentMoniker": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceLib\\MedicalDeviceLib.csproj",
+              "RelativeDocumentMoniker": "..\\MedicalDeviceLib\\MedicalDeviceLib.csproj",
+              "ToolTip": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceLib\\MedicalDeviceLib.csproj",
+              "RelativeToolTip": "..\\MedicalDeviceLib\\MedicalDeviceLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T19:23:51.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalDeviceSim.csproj",
+              "DocumentMoniker": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceSim\\MedicalDeviceSim\\MedicalDeviceSim.csproj",
+              "RelativeDocumentMoniker": "MedicalDeviceSim\\MedicalDeviceSim.csproj",
+              "ToolTip": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceSim\\MedicalDeviceSim\\MedicalDeviceSim.csproj",
+              "RelativeToolTip": "MedicalDeviceSim\\MedicalDeviceSim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T20:06:38.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMedicalDevice.cs",
+              "DocumentMoniker": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceInterface\\IMedicalDevice.cs",
+              "RelativeDocumentMoniker": "..\\MedicalDeviceInterface\\IMedicalDevice.cs",
+              "ToolTip": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceInterface\\IMedicalDevice.cs",
+              "RelativeToolTip": "..\\MedicalDeviceInterface\\IMedicalDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:02:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PrivateRepo\\DeviceSimulation\\MedicalClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MedicalClientApp\\Program.cs",
+              "ToolTip": "C:\\PrivateRepo\\DeviceSimulation\\MedicalClientApp\\Program.cs",
+              "RelativeToolTip": "..\\MedicalClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:35:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceSim\\MedicalDeviceSim\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalDeviceSim\\Program.cs",
+              "ToolTip": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceSim\\MedicalDeviceSim\\Program.cs",
+              "RelativeToolTip": "MedicalDeviceSim\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:34:29.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "dbfdede1-0b54-4db2-ab99-a1a52c9c3fd3",
+        "Display": 0,
+        "X": 887,
+        "Y": 1005,
+        "Width": 1294,
+        "Height": 731,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulatedDevice.cs",
+              "DocumentMoniker": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceLib\\SimulatedDevice.cs",
+              "RelativeDocumentMoniker": "..\\MedicalDeviceLib\\SimulatedDevice.cs",
+              "ToolTip": "C:\\PrivateRepo\\DeviceSimulation\\MedicalDeviceLib\\SimulatedDevice.cs",
+              "RelativeToolTip": "..\\MedicalDeviceLib\\SimulatedDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:38:05.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
